@@ -1,4 +1,4 @@
-## 3MLIDS-YairGonzalez-03Python
+## 3OLIDTS-RodrigoNandayapa-04
 ## Formulario de registro almacenamiento en TXT sin validacion
 import tkinter as tk
 from tkinter import messagebox

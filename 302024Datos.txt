@@ -1,0 +1,21 @@
+Nombres: Rodrigo
+Apellidos: Nandayapa
+Edad: 45 anios
+Estatura: 1.98
+Telefonos: 1234
+Genero: Hombre
+
+Nombres: nanda
+Apellidos: mex
+Edad: 23 anios
+Estatura: 1.98
+Telefonos: 988776
+Genero: Hombre
+
+Nombres: Rodrigo
+Apellidos: Nandayapa Medina
+Edad: 19 anios
+Estatura: 1.66
+Telefonos: 9613562209
+Genero: Hombre
+

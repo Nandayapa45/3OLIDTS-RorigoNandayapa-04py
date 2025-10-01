@@ -1,0 +1,7 @@
+Nombres: Miguel
+Apellidos: Nandayapa
+Edad: 89 anos
+Estatura: 1.87 cm
+Telefono: 9871235182
+Genero: Hombre
+
